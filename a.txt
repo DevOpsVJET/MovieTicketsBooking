@@ -1,3 +1,2 @@
-Date: Nov 2,
 updated
 welcome to git
